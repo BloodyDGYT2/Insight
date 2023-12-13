@@ -8,7 +8,7 @@
 <br>
 
 ## DEVELOPERS
-| NAME | DEVELOPERS |
+| NAME | CONTRIBUTORS |
 | ---------- | ----------|
 | [BLOODY](https://youtube.com/@BloodyDoesGames) | CREATOR |
 
